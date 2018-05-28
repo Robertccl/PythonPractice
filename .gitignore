@@ -13,7 +13,7 @@ build
 
 */__pycache__/*
 /images/*
-/.idea/*
+*/.idea/*
 *.jpg
 *.png
 
